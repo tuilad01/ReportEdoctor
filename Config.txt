@@ -1,0 +1,10 @@
+gói khám sức khoẻ cơ bản,	Gói KSK cơ bản
+gói khám chuyên khoa nữ	Ck nữ,
+xét nghiệm tầm soát ung thư nữ,	TSUT
+xét nghiệm tầm soát ung thư (nữ),	TSUT
+xét nghiệm tầm soát ung thư (nam),	TSUT
+gói khám sức khoẻ cao cấp,	Gói KSK cao cấp
+gói xét nghiệm tổng quát,	Gói XNTQ
+xét nghiệm vi khuẩn viêm loét dạ dày (helicobacter pylori, h.pylori),	Helicobacter pylori, H.pylori
+tư vấn xét nghiệm tại nhà - miễn phí!,	Tư vấn XN tại nhà
+gói xét nghiệm gan,	Gói XN Gan
