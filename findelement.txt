@@ -15,3 +15,7 @@ $x("descendant::td//div//th", $x("//table//tbody/ancestor::tr")[0])
 
 //Employee
 $x("descendant::td//div/following-sibling::table//th", $x("//table//tbody/ancestor::tr")[0])
+
+//Link update service booking
+$x("descendant::td//a[starts-with(@href,'/service-booking/')]", $x("//table//tbody/ancestor::tr")[0])
+
