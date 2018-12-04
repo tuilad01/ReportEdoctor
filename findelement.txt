@@ -1,0 +1,17 @@
+//Each patient
+$x("//tbody/ancestor::tr")
+
+//Packet service
+$x("descendant::td//ol//li",patient[0])
+
+//Name patient
+$x("descendant::td//div[@class='patient-info']//a", $x("//table//tbody/ancestor::tr")[0])
+
+//Patient info
+$x("descendant::td//div[@class='patient-info']//p", $x("//table//tbody/ancestor::tr")[0])
+
+//Price
+$x("descendant::td//div//th", $x("//table//tbody/ancestor::tr")[0])
+
+//Employee
+$x("descendant::td//div/following-sibling::table//th", $x("//table//tbody/ancestor::tr")[0])
